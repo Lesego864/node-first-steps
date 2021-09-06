@@ -4,5 +4,5 @@ function greet(name) {
     }
 };
 var msg = greet('Xola');
-console.log(msg)
+console.log(msg);
 
