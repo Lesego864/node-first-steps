@@ -1,8 +1,6 @@
-function greet(name) {
+module.exports = function greet(name) {
     if (name) {
         return 'Hello, ' + name
     }
 };
-var msg = greet('Xola');
-console.log(msg);
 
