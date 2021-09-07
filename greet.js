@@ -1,6 +1,6 @@
-module.exports = function greet(name) {
-    if (name) {
-        return 'Hello, ' + name
-    }
-};
+module.exports = function(name){
+    return 'Hello, ' + name;
+}
+
+
 
